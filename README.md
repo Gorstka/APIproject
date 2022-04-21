@@ -1,2 +1,14 @@
-# APIproject
-API for kvartirka
+# _APIproject - тестовый проект_
+
+## _Описание_
+
+Тестовое задание по написанию API.
+
+## _Технологии_
+
+- Python
+- Django
+- Docker
+
+### _Автор_
+Горстка Сергей
